@@ -1,4 +1,3 @@
-require 'byebug'
 require_relative 'p04_linked_list'
 require_relative 'p02_hashing'
 
